@@ -4,7 +4,7 @@
 <h3 align="center" color=red>A Fullstack & Blockchain Developer</h3>
 
 
-<img align="right" width=500 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
+<img align="right" width=400 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=diwakarkashyap&label=Profile%20views&color=0e75b6&style=flat"
