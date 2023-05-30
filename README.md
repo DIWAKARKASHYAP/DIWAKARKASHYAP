@@ -81,7 +81,7 @@
 
 <p align="center" >
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap" alt="diwakarkashyap" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap&theme=onedark" alt="diwakarkashyap" /></a>
 </p>
 
 <p>
