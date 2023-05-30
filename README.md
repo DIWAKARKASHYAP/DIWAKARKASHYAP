@@ -86,13 +86,13 @@
 
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakarkashyap&show_icons=true&locale=en&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakarkashyap&show_icons=true&theme=blue-green"
         alt="diwakarkashyap" />
 </p>
 
 <p>
     &nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=dark&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=blue-green&show_icons=true"
         alt="diwakarkashyap" />
 </p>
 
