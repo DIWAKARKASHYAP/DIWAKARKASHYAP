@@ -97,6 +97,6 @@
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarkashyap&theme=tokyonight"
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarkashyap&theme=blue-green"
         alt="diwakarkashyap" />
 </p>
