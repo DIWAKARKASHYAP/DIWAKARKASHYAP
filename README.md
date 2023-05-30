@@ -92,7 +92,7 @@
 
 <p>
     &nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&show_icons=true&locale=en&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=dark&show_icons=true"
         alt="diwakarkashyap" />
 </p>
 
