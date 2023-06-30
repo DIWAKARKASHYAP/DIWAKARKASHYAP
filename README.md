@@ -57,7 +57,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" alt="react" width="40" height="40" />
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQhiHz97G9DrWkLzvuaOD8qkSydn7cqiXFjxaFxj98g&s" alt="nextjs" width="40" height="40" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
