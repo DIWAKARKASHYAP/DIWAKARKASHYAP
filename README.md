@@ -15,8 +15,8 @@
 
 
 
-- 🌱 I’m currently learning **Defi , Uniswap** 
-- 💬 Ask me about **Dapp, React js , Next js**
+- 🌱 I’m currently doing **Oper Source** 
+- 💬 Ask me about **Dapp, React js , Next js , Web Development**
 - 📫 How to reach me **didk9675@gmail.com** 
 - ⚡Fun fact **love Error**
 
