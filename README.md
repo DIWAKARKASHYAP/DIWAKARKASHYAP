@@ -16,7 +16,7 @@
 
 [portfolio](https://diwakar-portfolio.vercel.app/)
 
-- 🌱 I’m currently doing **Oper Source** 
+- 🌱 I’m currently doing **Open Source** 
 - 💬 Ask me about **Dapp, React js , Next js , Web Development**
 - 📫 How to reach me **didk9675@gmail.com** 
 - ⚡Fun fact **love Error**
