@@ -17,7 +17,7 @@
 [portfolio](https://diwakar-portfolio.vercel.app/)
 
 - 🌱 I’m currently doing **Open Source** 
-- 💬 Ask me about **Dapp, React js , Next js , Web Development**
+- 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
 - 📫 How to reach me **didk9675@gmail.com** 
 - ⚡Fun fact **love Error**
 
@@ -31,8 +31,21 @@
     <a href="https://discord.gg/Diwakar#6919" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Diwakar#6919" height="40"
             width="40" /></a>
+    <a href="mailto:didk9675@gmail.com" target="blank"><img align="center"
+            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
+            width="40" /></a>
 
 </p>
+
+<h3 align="left">Blogs:</h3>
+<p align="left">
+     <a href="https://dev.to/diwakarkashyap" target="blank"><img align="center"
+            src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@diwakar_766" height="40"
+            width="40" /></a>
+    <a href="https://diwakarkashyap.hashnode.dev/" target="blank"><img align="center"
+            src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" height="40" width="40" /></a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
