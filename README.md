@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently doing **Open Source** 
+- 🌱 I’m currently learning **GoLang**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
 - 📫 How to reach me **didk9675@gmail.com** 
@@ -80,35 +80,30 @@
         height="40" />
 </a>
 <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer">
-    <img src="https://21870089.fs1.hubspotusercontent-na1.net/hubfs/21870089/ethersjs.png" alt="solidity" width="40"
+    <img src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="solidity" width="60"
         height="40" />
 </a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://d31ygswzsyecnt.cloudfront.net/grants/32b6fabb70180e949a0490be4d9f1a2d/Hardhat-color-logotype-vertical.svg"
+    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png"
         alt="solidity" width="40" height="40" />
 </a>
-    
+
+
+
     
 </p>
 
-<p align="center" >
+<p align="center"  >
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap&theme=matrix&margin-h=15&margin-w=10" alt="diwakarkashyap" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap&theme=matrix&margin-h=15&column=4&margin-w=10" alt="diwakarkashyap" /></a>
 </p>
 
-<p>
-    <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=diwakarkashyap&show_icons=true&theme=blue-green"
-        alt="diwakarkashyap" />
-</p>
 
-<p>
-    &nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=blue-green&show_icons=true"
-        alt="diwakarkashyap" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=diwakarkashyap&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarkashyap&theme=blue-green" alt="pratikgarai" /></td>
+   </tr>
+</table>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarkashyap&theme=blue-green"
-        alt="diwakarkashyap" />
-</p>
+
