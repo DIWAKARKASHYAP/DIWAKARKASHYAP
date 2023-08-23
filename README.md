@@ -29,7 +29,7 @@
     <a href="https://discord.gg/Diwakar#6919" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Diwakar#6919" height="40"
             width="40" /></a>
-    <a href="mailto:didk9675@gmail.com" target="blank"><img align="center"
+    <a href="mailto:diwakarkashyapdev@gmail.com" target="blank"><img align="center"
             src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Diwakar#6919" height="30"
             width="40" /></a>
 
