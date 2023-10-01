@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **GoLang**, doing **Open Source** 
+- 🌱 I’m currently learning **GoLang**, **Typescript**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
 - 📫 How to reach me **didk9675@gmail.com** 
