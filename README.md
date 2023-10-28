@@ -48,48 +48,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html5" width="40" height="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="css3" width="40" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="javascript" width="40" height="40" />
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="nodejs"
-        width="40" height="40" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb"
-        width="40" height="40" />
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1260/1260667.png" alt="react" width="40" height="40" />
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQhiHz97G9DrWkLzvuaOD8qkSydn7cqiXFjxaFxj98g&s" alt="nextjs" width="40" height="40" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-        height="40" />
-</a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://smartcontractprogrammer.com/static/media/solidity-app.0623e708.svg" alt="solidity" width="40"
-        height="40" />
-</a>
-<a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="solidity" width="60"
-        height="40" />
-</a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png"
-        alt="solidity" width="40" height="40" />
-</a>
 
 
 
+<div>
+    <img margin="20" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+
+</div>
     
 </p>
 
