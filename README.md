@@ -77,6 +77,7 @@
             src="https://github-profile-trophy.vercel.app/?username=diwakarkashyap&theme=matrix&margin-h=15&column=4&margin-w=10" alt="diwakarkashyap" /></a>
 </p>
 
+[![An image of @diwakarkashyap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diwakarkashyap)](https://holopin.io/@diwakarkashyap)
 
 <table>
   <tr>
