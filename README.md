@@ -13,8 +13,8 @@
 
 
 
-- 🌱 I’m currently learning **Typescript**, doing **Open Source** 
-- 💬 Ask me about **JavaScript, React js , Next js , Web Development, Dapp**
+- 🌱 I’m currently learning **AI/ML**, doing **Open Source** 
+- 💬 Ask me about **JavaScript, Typescript, React js, Next js, Dapp**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
 - 📫 How to reach me **didk9675@gmail.com** 
 - ⚡Fun fact **love Error**
