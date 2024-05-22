@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm DIWAKAR KASHYAP</h1>
 <h3 align="center" color=red>A Fullstack Web & Blockchain Developer </h3>
 
