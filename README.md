@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+Blockchain+Developer.++++++++++)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm DIWAKAR KASHYAP</h1>
-<h3 align="center" color=red>A Fullstack Web & Blockchain Developer </h3>
+<!-- <h3 align="center" color=red>A Fullstack Web & Blockchain Developer </h3> -->
 
 
 <img align="right" width=450 margin="10px" src ="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoLnF-XP3ukT4kJm-qI54u3RqORHi5XimQKLgfi1mZyRFWVxvA1edm0Vl1g0S-gXZEzQB1pVFYzgbEcIB15wt1YNTeu-bkITTs10IMf8tWPylY_rbBquGZev7TLBjxG6xYCzxOwVT5EvqNMe0oNCXQwIxDrwvPFnePLLsGk5rgLn3ctZVj13IiZpnJ/s1200/5927911.gif" />
