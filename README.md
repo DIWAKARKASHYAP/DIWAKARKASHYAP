@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **AI/ML**, doing **Open Source** 
+- 🌱 I’m currently learning **Angular**, doing **Open Source** 
 - 💬 Ask me about **JavaScript, Typescript, React js, Next js, Dapp**
 - 👨‍💻 My portfolio is available at https://diwakar-portfolio.vercel.app/
 - 📫 How to reach me **didk9675@gmail.com** 
